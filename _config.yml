@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my personal site, to show my projects, and life.
 author: Tink
 email: ZhangYunfengZJU@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -54,7 +54,7 @@ twitter_url:
 
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-57079792-2
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
